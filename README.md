@@ -1,2 +1,0 @@
-# NPLstudy
-study for NLP
